@@ -3,7 +3,7 @@
 A creative 3D art showcase built with **HTML & CSS**, inspired by mythical dragons and the illusion of motion.  
 This project explores depth, rotation, and artistic composition — where code meets imagination.
 
-![CSS Dragon Gallery Preview](assets/preview.png)
+![CSS Dragon Gallery Preview](assets/Screenshot.png)
 
 ---
 
